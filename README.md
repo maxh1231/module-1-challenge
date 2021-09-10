@@ -13,4 +13,4 @@ https://maxh1231.github.io/module-1-challenge/
 ## Screenshot
 ![Image of application](https://github.com/maxh1231/module-1-challenge/blob/main/applicationscreenshot1.png?raw=true)
 
-![Image of application](assets/images/applicationscreenshot2.png)
+![Image of application](module-1-challenge/assets/images/applicationscreenshot2.PNG)
